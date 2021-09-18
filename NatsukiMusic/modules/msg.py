@@ -21,7 +21,7 @@ from NatsukiMusic.config import PROJECT_NAME
 from NatsukiMusic.config import SUPPORT_GROUP
 from NatsukiMusic.config import UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 Mr. [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\nDont Use This Bot Create Your Own Bot."
+      START_MSG = "**Hello 👋 Mr. [{}](tg://user?id={})!**\n\n🤖 Because this bot is more likely to get stuck,\n so make your own bot now."
       HELP_MSG = [
         ".",
 f"""
